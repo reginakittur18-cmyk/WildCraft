@@ -1,0 +1,7 @@
+{
+  "name": "Wildcraft",
+  "description": "Explore a procedurally generated open world with survival elements, dynamic biomes, crafting, and wildlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
